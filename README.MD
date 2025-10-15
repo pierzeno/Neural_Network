@@ -1,4 +1,4 @@
-# Simple Neural Network (MNIST) — Following *Neural Networks and Deep Learning* by Michael Nielsen
+# Neural Network
 
 This project implements a simple **feedforward neural network** trained via **stochastic gradient descent (SGD)** and **backpropagation**, following the principles and code structure presented in [*Neural Networks and Deep Learning*](http://neuralnetworksanddeeplearning.com/).
 The network is trained on the **MNIST handwritten digits dataset**, achieving around **95% classification accuracy** on the test set after 30 epochs.
